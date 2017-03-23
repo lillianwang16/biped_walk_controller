@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+c:\users\fenxy\documents\openframeworks\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\fenxy\documents\openframeworks\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  proj279.vcxproj -> C:\Users\fenxy\Documents\openFrameworks\apps\myApps\proj279\proj279\bin\proj279_debug.exe
+  proj279.vcxproj -> bin\proj279_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\
