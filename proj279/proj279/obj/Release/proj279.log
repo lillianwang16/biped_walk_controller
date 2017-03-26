@@ -1,8 +1,0 @@
-﻿  ofApp.cpp
-c:\users\fenxy\documents\openframeworks\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-c:\users\fenxy\documents\openframeworks\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-     Creating library bin\proj279.lib and object bin\proj279.exp
-  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
-  proj279.vcxproj -> C:\Users\fenxy\Documents\openFrameworks\apps\myApps\proj279\proj279\bin\proj279.exe
-  
-  	                   9	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\

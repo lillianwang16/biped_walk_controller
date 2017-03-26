@@ -1,0 +1,14 @@
+﻿     Creating library bin\proj279.lib and object bin\proj279.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  proj279.vcxproj -> C:\Users\fenxy\Documents\openFrameworks\apps\myApps\proj279\proj279\bin\proj279.exe
+  
+  	                   9	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\
+  	    新文件    		 2939392	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\assimp.dll
+  	    新文件    		 1266176	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\fmodex.dll
+  	    新文件    		 1312768	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\fmodexL.dll
+  	    新文件    		 5647872	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\FreeImage.dll
+  	    新文件    		  580608	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\freetype.dll
+  	    新文件    		  237568	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\glut32.dll
+  	    新文件    		 1178624	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\libeay32.dll
+  	    新文件    		  269824	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\ssleay32.dll
+  	    新文件    		   69632	C:\Users\fenxy\Documents\openFrameworks\export\vs\Win32\Zlib.dll
